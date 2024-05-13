@@ -3,7 +3,6 @@ import pandas as pd
 import datetime as dt
 import streamlit as st
 import numpy as np
-import plotly_express as px
 
 # Configuração incial do sistema
 st.set_page_config(page_title="IoT Tecnoplus", page_icon=":bar_chart:", layout="wide", initial_sidebar_state="collapsed")
